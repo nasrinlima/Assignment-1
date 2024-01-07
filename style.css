@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+
+/*header area*/
+
+.header{
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 0 auto;
+   /* background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%); */
+    background-image: url('images/Banner\ Image.png');
+}
+.header h3{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding: 160px 500px 0 500px;
+}
+.header h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    padding: 5px 344px 0px 344px;
+    
+}
+
+/*main area*/
+
+
+.text-area{
+    text-align: center;
+    font-family: Inter;
+    margin-top: 100px;
+   
+}
+.text-area h1{
+    color: #F00;
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.text-area h4{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0;
+
+}
+.text-area h3{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.image {
+    text-align: center;
+}
+
+
