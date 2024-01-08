@@ -175,7 +175,7 @@ body{
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
-    padding-left: 200px;
+    padding-left: 150px;
 }
 .three-div .last-part p{
     color: rgba(7, 2, 17, 0.60);
@@ -187,7 +187,7 @@ body{
     
 }
 .last-part img{
-    padding-left: 200px;
+    padding-left: 150px;
 }
 .holiday{
     text-align: center;
@@ -336,20 +336,26 @@ body{
     font-size: 18px;
     font-weight: 500;
 }
-.footer-area .foot-2 a{
-    color: #FFF;
-    text-decoration: none;
-    padding-left: 15px;
-    margin-top: -20px;
-    margin-bottom: 0;
+.footer-area .foot-2{
+    align-items: center;
 }
 .foot-2 img{
     width: 24px;
     height: 24px;
 }
+.foot-2 h5{
+    color: #FFF;
+    margin-bottom: 0;
+    font-size: 16px;
+}
 .middle .icon{
-    margin: 0 auto;
-    padding: 0 500px; 
+    margin-left: 330px;
+    padding: 20px 190px; 
+}
+.icon img{
+    width: 40px;
+    height: 40px;
+    padding: 30px 5px;
 }
 .down h6{
     color: #FFF;
@@ -359,8 +365,9 @@ body{
     justify-content: space-between;
 }
 .down{
-    display: flex;
+    text-align: center;
 }
+
 
 
     
